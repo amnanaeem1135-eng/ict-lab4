@@ -9,3 +9,5 @@ This project asks for your name and says hello.
 1. Install Python
 2. Run `python hello.py`
 Edited on GitHub.com 
+## Author
+Amna , BEIS-06 A
