@@ -3,7 +3,7 @@
 My first Git repository for **Applications of ICT**.
  
 ## About
-This project prints a greeting.
+This project asks for your name and says hello.
  
 ## How to run
 1. Install Python
